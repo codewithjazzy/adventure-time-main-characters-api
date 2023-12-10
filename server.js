@@ -66,7 +66,6 @@ const characters = {
         'occupation': 'unknown',
         'voiceActor': 'unknown',
     }
-
 }
 
 app.get('/', (req, res) => {
@@ -83,7 +82,6 @@ app.get('/api/:name', (req,res)=>{
     }
 })
 
-
 app.listen(PORT, ()=>{
-    console.log(`The server is now running on port ${PORT}! YASSS QUEEN`)
+    console.log(`The server is now running on port ${PORT}! YASSS QUEEN!`)
 })

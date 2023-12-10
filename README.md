@@ -30,7 +30,7 @@ This is an API that holds data relating to the main characters of the Adventure 
 
 ## My process
 
-### Running the Project Locally
+<!--- ### Running the Project Locally
 To run this project locally it's necessary to:
 1. **Install Node.js**.
 
@@ -44,7 +44,7 @@ To run this project locally it's necessary to:
     ```bash
    node server.js
    ```
-   This command will start a local development server, and you can access the project in your web browser at `http://localhost:8000`.
+   This command will start a local development server, and you can access the project in your web browser at `http://localhost:8000`. --->
 
 
 ### Built with
@@ -54,6 +54,7 @@ To run this project locally it's necessary to:
   <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 </p>
 
 

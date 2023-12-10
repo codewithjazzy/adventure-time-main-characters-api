@@ -29,6 +29,23 @@ This is an API that holds data relating to the main characters of the Adventure 
 
 ## My process
 
+### Running the Project Locally
+To run this project locally it's necessary to:
+1. **Install Node.js**.
+
+   You can download it from the official [Node.js website](https://nodejs.org/).
+2. In your terminal, run the following command:
+
+   ```bash
+   npm install
+   ```
+3. **Run the project**.
+    ```bash
+   node server.js
+   ```
+   This command will start a local development server, and you can access the project in your web browser at `http://localhost:8000`.
+
+
 ### Built with
 
 <p float="left">
